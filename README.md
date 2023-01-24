@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Advanced Swift, SwiftUI, RxSwift,**
 
-- 💬 Ask me about **iOS-Swift**
+- 💬 Ask me about **Software Testing & iOS-Swift**
 
 - 📫 How to reach me **makanyunus@gmail.com**
 
