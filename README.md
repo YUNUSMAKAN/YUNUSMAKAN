@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yunus MAKAN</h1>
 <h3 align="center">A passionate Software Test Engineer 
-  | iOS Developer from Turkey</h3>
+  | Indie iOS Developer from Turkey</h3>
 
 <img align="right" alt="Coding" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 
